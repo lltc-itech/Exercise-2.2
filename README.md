@@ -23,4 +23,4 @@ Next, construct an encyclopedic page about that topic. It does not have to be co
 
 Here's an example of the level of complexity that we are looking for:
 
-![Example Web Page](assets/example.png)# Exercise-2.2
+![Example Web Page](assets/example.png)
