@@ -14,6 +14,7 @@ Next, construct an encyclopedic page about that topic. It does not have to be co
     * Doctype declaration
     * `<html>`, `<head>`, and `<body>` elements.
     * Basic `<meta>` tags, a `<title>` element, and everything in its appropriate place.
+    * There is a shortcut to plop down all of this boilerplate code instantly. Do you remember what it was?
 * Use heading tags (`<h1>` through `<h6>`) where appropriate.
 * Your page must include at least one `<img>` tag with the required attributes.
 * Consider adding at least one of either a `<table>` or a `<list>` element.
